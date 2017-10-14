@@ -1,0 +1,49 @@
+var quote = [
+	{
+		"quote" : "Only I can change my life. No one can do it for me.", 
+		"author" : "Carol Burnett"
+	},
+	{
+		"quote" : "Life is 10% what happens to you and 90% how you react to it.",
+		"author" : "Charles R. Swindoll"
+	},
+	{
+		"quote" : "Good, better, best. Never let it rest. 'Til your good is better and your better is best.",
+		"author" : "St. Jerome"
+	},
+	{
+		"quote" : "It does not matter how slowly you go as long as you do not stop.",
+		"author" : "Confucius"
+	},
+	{
+		"quote" : "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+		"author" : "Helen Keller"
+	},
+	{
+		"quote" : "In order to succeed, we must first believe that we can.",
+		"author" : "Nikos Kazantzakis"
+	},
+	{
+		"quote" : "Failure will never overtake me if my determination to succeed is strong enough.",
+		"author" : "Og Mandino"
+	},
+	{
+		"quote" : "It always seems impossible until it's done.",
+		"author" : "Nelson Mandela"
+	},
+	{
+		"quote" : "If you can dream it, you can do it.", 
+		"author" : "Walt Disney"
+	},
+	{
+		"quote" : "The secret of getting ahead is getting started." 
+		"author" : "Mark Twain"
+	},
+];
+
+
+
+
+
+
+
